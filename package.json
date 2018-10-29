@@ -1,0 +1,27 @@
+{
+  "name": "mysql-crud-app",
+  "version": "1.0.0",
+  "description": "Simple Node JS & MySQL CRUD App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arabinda87am/node-mysql-crud-app.git"
+  },
+  "author": "Arabinda Manna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arabinda87am/node-mysql-crud-app/issues"
+  },
+  "homepage": "https://github.com/arabinda87am/node-mysql-crud-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "mysql": "^2.16.0",
+    "req-flash": "0.0.3"
+  }
+}
